@@ -10,7 +10,7 @@ A deep learning system that classifies breast ultrasound images into **Benign**,
 
 ```
 .
-├── training_notebook.ipynb      # Data loading, EDA, preprocessing, and model training (Kaggle/Colab)
+├── breast-cancer.ipynb      # Data loading, EDA, preprocessing, and model training (Kaggle/Colab)
 ├── app.py                       # Streamlit web application for inference
 ├── breast_cancer_weights.weights.h5   # Trained model weights (required to run the app)
 ├── requirements.txt
